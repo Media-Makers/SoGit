@@ -1,4 +1,4 @@
-# Software-Platform
+# SoGit
 
 ## A social media site, where developers, engineers, etc can create blogs and like posts. 
 
