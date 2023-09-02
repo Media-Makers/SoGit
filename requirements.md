@@ -2,25 +2,57 @@ Software Requirements
 Vision
 Minimum Length: 3-5 sentences
 
-What is the vision of this product?
+What is the vision of this product? 
+-The vision of the SoGit is to become a premier platform for tech enthusiasts and professionals to access curated and up-to-date tech news and engage in meaningful discussions with a vibrant community.
 
-What pain point does this project solve?
+What pain point does this project solve?  
+This project addresses the pain point of information overload in the fast-paced tech industry. With the exponential growth of technology-related news and updates, users often struggle to filter and access relevant and reliable information efficiently.
 
 Why should we care about your product?
+We should care about the SoGit because it empowers users to stay informed about the latest tech trends, innovations, and developments in a convenient and personalized manner.
 
 Scope (In/Out)
 IN - What will your product do
 Describe the individual features that your product will do.
 High overview of each. Only need to list 4-5
-Example:
-The web app will provide information to the users about all the different Cat Cafe’s in the area
-The web app will provide both walking and driving directions to each of the destinations
-Users will be able to “Star” their favorite shops.
-Each shop will contain reviews of the customer’s experiences
+-Tech News Aggregator
+-User Profiles and Social Interaction
+-Bookmark and Save Articles
+-Search and Discovery
+-Notifications and Personalization
+
 OUT - What will your product not do.
-These should be features that you will make very clear from the beginning that you will not do during development. These should be limited and very few. Pick your battles wisely. This should only be 1 or 2 things. Example: My website will never turn into an IOS or Android app.
+These should be features that you will make very clear from the beginning that you will not do during development. These should be limited and very few. Pick your battles wisely. This should only be 1 or 2 things. 
+-Original Content Creation
+-Direct News Hosting
+
 Minimum Viable Product vs
 What will your MVP functionality be?
+
+Tech News Aggregator:
+
+Aggregates and displays tech news articles from multiple sources.
+Allows users to filter news by categories (e.g., AI, blockchain, cybersecurity).
+
+User Profiles and Social Interaction:
+
+-Users can create profiles with basic information.
+-Users can follow other users and see a basic activity feed.
+-Users can comment on news articles.
+
+Bookmark and Save Articles:
+
+-Users can save articles to a personal "saved" list.
+-Users can view their saved articles in a dedicated section.
+
+Search and Discovery:
+
+-Basic search functionality for finding news articles and user profiles.
+-Search results include articles and user profiles.
+
+Notifications:
+
+-Users receive notifications for new comments on their posts and when someone follows them.
 
 What are your stretch goals?
 
