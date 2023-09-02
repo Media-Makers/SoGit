@@ -3,7 +3,7 @@ Vision
 Minimum Length: 3-5 sentences
 
 What is the vision of this product? 
--The vision of the SoGit is to become a premier platform for tech enthusiasts and professionals to access curated and up-to-date tech news and engage in meaningful discussions with a vibrant community.
+The vision of the SoGit is to become a premier platform for tech enthusiasts and professionals to access curated and up-to-date tech news and engage in meaningful discussions with a vibrant community.
 
 What pain point does this project solve?  
 This project addresses the pain point of information overload in the fast-paced tech industry. With the exponential growth of technology-related news and updates, users often struggle to filter and access relevant and reliable information efficiently.
