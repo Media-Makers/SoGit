@@ -7,4 +7,4 @@ Bianca Chery, Andrea Malone, Justine Oyaghiro, Ajamu Page
 
 ### Domain Model
 
-### 
+### Database Schema
