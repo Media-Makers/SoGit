@@ -11,7 +11,8 @@ Bianca Chery, Andrea Malone, Justine Oyaghiro, Ajamu Page
 
 
 ### Database Schema
-![Database Schema]
+![Database](https://github.com/Media-Makers/SoGit/assets/127991428/8b680505-4f41-4cf6-8b11-77b5f818bb61)
+
 
 ### Links & Resources
 [Media-Makers/Trello](https://trello.com/b/90KB3KYT/media-makers-web-design-development)
