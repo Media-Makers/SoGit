@@ -1,8 +1,8 @@
 # SoGit
 
-A social media site, where developers, engineers, etc can create blogs and like posts. 
+A social media site, where developers, engineers, etc can create blogs, keep up with the latest news in technology, and create and like posts. 
 
-### Authors
+## Authors
 Bianca Chery, Andrea Malone, Justine Oyaghiro, Ajamu Page
 
 ### Domain Model
