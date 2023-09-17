@@ -1,4 +1,5 @@
 # SoGit
+sogit-301.netlify.app
 
 A social media site, where developers, engineers, etc can create blogs, keep up with the latest news in technology, and create and like posts. 
 
